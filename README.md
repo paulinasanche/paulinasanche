@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning React 
+- 😄 Pronouns: She/her
+-->
+
 <!--
 **paulinasanche/paulinasanche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
